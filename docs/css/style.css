@@ -3,8 +3,4 @@ body {
     background-color: #EAF0CE;
     display: flex;
 }
-
-@media(min-width: 768px)
-.container{
-    max-widht: 704px;
-}
+@media(min-width: 768px){}
